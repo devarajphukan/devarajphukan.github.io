@@ -49,7 +49,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Devaraj and I'm a Grad Student at RWTH Aachen University pursuing MSc Data Analytics and Decision Science. I have 3 years of full time working experince as a Data Science Engineer.
 
-  I am most skilled in":" <mark>R</mark> and <mark>Python</mark>
+  I am most skilled in: <mark>R</mark> and <mark>Python</mark>
 
 content:
   - title: Projects # Title for the section
@@ -67,9 +67,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          "Wow!, Great website"
+          "Wow! Great website" - me, circa 2021 A.D.
         description: | # this will include new lines to allow paragraphs
-          Learning to create a great personal website using jekyll, github pages, and looking for free/cheap templates for this website.
+              Learning to create a great personal website using jekyll, github pages, and looking for free/cheap templates for this website.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -83,7 +83,7 @@ content:
         quote: >
           Industry 4.0 data science & analytics for manufacturing
         description: | # this will include new lines to allow paragraphs
-            This was my first full time experince right after college, learnt to work in an Agile environment using tools which the real professionals do (like github/JIRA), and wrinting code without naming the variables (i,j,k). Tested & Deployed most of the stuff I built. Learnt to write some clean code after endless PR reviews using <mark>R</mark> & <mark>Python</mark>.
+            This was my first full time experince right after college, learnt to work in an Agile environment using tools which the real professionals do (like github/JIRA), and wrinting code without naming the variables i,j,k and the functions as my_func. Tested & Deployed most of the stuff I built. Learnt to write some clean code after endless PR reviews.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
