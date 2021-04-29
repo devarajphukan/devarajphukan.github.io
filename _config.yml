@@ -9,7 +9,7 @@ version: 2
 name: Devaraj Phukan
 title: Data Scientist(ish)
 email: devaraj.phukan@gmail.com
-phone:
+phone: "+49 1517190070"
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -32,7 +32,7 @@ linkedin_username: devarajphukan
 additional_links:
 - title: 500px
   icon: fas fa-camera
-  url: https://500px.com/p/devarajphukan
+  url: 500px.com/p/devarajphukan
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -57,7 +57,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome personal website (COMING SOON !!!)
-        link: https://devarajphukan.github.io/
+        link: devarajphukan.github.io
         # link_text: Project Website
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
@@ -76,12 +76,12 @@ content:
     content:
       - layout: left
         title: Manufacturing System Insights "(VIMANA)"
-        link: https://govimana.com/
+        link: govimana.com
         # link_text: boringcompany.com
         sub_title: Software Developer "(Data Science)"
         caption: July 2017 to June 2020
         quote: >
-          Industry 4"."0 data science & analytics for manufacturing
+          Industry 4.0 data science & analytics for manufacturing
         description: | # this will include new lines to allow paragraphs
             This was my first full time experince right after college, learnt to work in an Agile environment using tools which the real professionals do (like github/JIRA), and wrinting code without naming the variables (i,j,k). Tested & Deployed most of the stuff I built. Learnt to write some clean code after endless PR reviews using <mark>R</mark> & <mark>Python</mark>.
 
