@@ -94,7 +94,8 @@ content:
         sub_title: MSc Data Analytics & Decision Science
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: |  Learning about Operations Research, Machine Learning, Deep Learning, and Management Science.
+        description: |
+          Learning about Operations Research, Machine Learning, Deep Learning, and Management Science.
 
 
   - title: A Little More About Me
