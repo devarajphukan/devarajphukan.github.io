@@ -75,10 +75,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Manufacturing System Insights "(VIMANA)"
+        title: Manufacturing System Insights (VIMANA)
         link: govimana.com
         # link_text: boringcompany.com
-        sub_title: Software Developer "(Data Science)"
+        sub_title: Software Developer (Data Science)
         caption: July 2017 to June 2020
         quote: >
           Industry 4.0 data science & analytics for manufacturing
@@ -92,6 +92,7 @@ content:
         title: RWTH Aachen University
         caption: November 2020 - September 2022 (hopefully)
         sub_title: MSc Data Analytics & Decision Science
+        link: www.business-school.rwth-aachen.de/en/programs/m-sc-data-analytics-and-decision-science
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |
