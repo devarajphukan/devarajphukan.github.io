@@ -47,8 +47,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Devaraj and I'm a Grad Student at RWTH Aachen University pursuing M.Sc Data Analytics & Decision Science. I have 3 years of full time working experince as a Data Science Engineer. And I do
-
+  Hi, my name's Devaraj and I'm a Grad Student at RWTH Aachen University pursuing M.Sc Data Analytics & Decision Science. I have 3 years of full time working experince as a Data Science Engineer.
+  
   I am most skilled in: <mark>R</mark> and <mark>Python</mark>
 
 content:
@@ -67,8 +67,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          "Wow!, Great website"
-                           |-me, circa 2021 A.D
+          "Wow!, Great website" -me, circa 2021 A.D
         description: | # this will include new lines to allow paragraphs
           Learning to create a great personal website using jekyll, github pages, and looking for free/cheap templates for this website.
 
@@ -93,7 +92,6 @@ content:
         title: RWTH Aachen University
         caption: 2020 - present
         sub_title: M.Sc Data Analytics & Decision Science
-        link: https://www.business-school.rwth-aachen.de/en/programs/m-sc-data-analytics-and-decision-science/
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |  Learning about Operations Research, Machine Learning, Deep Learning, and Management Science.
