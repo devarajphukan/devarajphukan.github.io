@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpeg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Devaraj and I'm a Grad Student at RWTH Aachen University pursuing MSc Data Analytics and Decision Science. I have 3 years of full time working experince as a Data Science Engineer.
 
