@@ -83,7 +83,7 @@ content:
         quote: >
           Industry 4.0 data science & analytics for manufacturing
         description: | # this will include new lines to allow paragraphs
-            This was my first full time experince right after college, learnt to work in an Agile environment using tools which the real professionals do (like github/JIRA), and wrinting code without naming the variables i,j,k and the functions as my_func. Tested & Deployed most of the stuff I built. Learnt to write some clean code after endless PR reviews.
+            This was my first full-time experience right after college, learned to work in an Agile environment using tools that the real professionals do (like github and JIRA), and writing code without naming the variables i,j,k and the functions as my_func. Tested & Deployed most of the stuff I built. Learned to write some clean code after endless PR reviews.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
